@@ -31,4 +31,4 @@ Language: PostgreSQL <br>
 Software: pgAdmin, Tableau, Excel
 
 ## Visualizations
-<a href="[https://public.tableau.com/views/ROCKBUSTER_16850728929730/rockbuster?:language=en-US&amp;:display_count=n&amp;:origin=viz_share_link](https://public.tableau.com/views/Rockbusterspatialanalysis/Sheet1?:language=en-GB&:display_count=n&:origin=viz_share_link)https://public.tableau.com/views/Rockbusterspatialanalysis/Sheet1?:language=en-GB&:display_count=n&:origin=viz_share_link" rel="nofollow">Rockbuster Spatial Analysis</a>
+<a href="https://public.tableau.com/views/Rockbusterspatialanalysis/Sheet1?:language=en-GB&:display_count=n&:origin=viz_share_link" rel="nofollow">Rockbuster Spatial Analysis</a>
