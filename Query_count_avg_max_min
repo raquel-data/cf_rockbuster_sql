@@ -1,0 +1,9 @@
+-- The inventory team has asked for: count of the movies, average rental rate, and maximum and minimum rental durations.
+
+SELECT rating, COUNT(film_id) AS count_of_movies,
+AVG(rental_rate) AS average_movie_rental_rate,
+MAX (rental_duration) AS maximum_rental_duration,
+MIN (rental_duration) AS minimum_rental_duration
+FROM film
+GROUP BY rating
+HAVING rating IN ('PG', 'G')
