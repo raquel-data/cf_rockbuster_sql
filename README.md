@@ -9,25 +9,25 @@ ad-hoc business questions that other departments may have.
 
 ## Data
 ### Fact Tables
-Payment
+Payment <br>
 Rental
 ### Dimension Tables
-Actor
-Address
-Category
-City
-Country
-Customer
-Fim
-Film Actor
-Film Category
-Inventory
-Language
-Staff
+Actor <br>
+Address <br>
+Category <br>
+City <br>
+Country <br>
+Customer <br>
+Film <br>
+Film Actor <br>
+Film Category <br>
+Inventory <br>
+Language <br>
+Staff <br>
 Store
 
 ## Tools
-Language: PostgreSQL 
+Language: PostgreSQL <br>
 Software: pgAdmin, Tableau, Excel
 
 
