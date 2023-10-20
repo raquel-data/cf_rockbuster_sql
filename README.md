@@ -31,5 +31,6 @@ Language: PostgreSQL <br>
 Software: pgAdmin, Tableau, Excel
 
 ## Visualizations
-<a href="https://public.tableau.com/views/Rockbusterspatialanalysis/Sheet1?:language=en-GB&:display_count=n&:origin=viz_share_link" rel="nofollow">Rockbuster Spatial Analysis</a> <br>
+<a href="https://public.tableau.com/views/Rockbusterspatialanalysis/Sheet1?:language=en-GB&:display_count=n&:origin=viz_share_link" rel="nofollow">Rockbuster Spatial Analysis</a> 
+<br> <br>
 <a href="https://public.tableau.com/app/profile/raquel.garcia.navarro/viz/3-10Revenuepercategories/Sheet2" rel="nofollow">Rockbuster Revenue per categories</a>
